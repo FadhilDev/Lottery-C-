@@ -1,1 +1,1 @@
-# Lottery-C-
+# Lottery C#
